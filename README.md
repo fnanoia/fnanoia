@@ -1,16 +1,18 @@
-### Hi there 👋
+### Francisco Nanoia :alien:
+[LinkedIn](https://www.linkedin.com/in/fnanoia/) :space_invader:
 
-<!--
-**fnanoia/fnanoia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Emprendedor y autodidacta. Busco un ambiente laboral donde pueda tener mi primera experiencia en el área de Tecnología. Me interesa poder desarrollar mis habilidades, trabajando en equipo y aprendiendo día a día. 
 
-Here are some ideas to get you started:
+Actualmente participo del Cohorte 6 en [NoCountry](https://www.nocountry.tech/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+En este momento estoy terminando mis estudios como Full Stack Developer en la institución educativa Coderhouse. También capacitandome en el área de Ciberseguridad y Redes en la académia Cisco.
+
+Tecnologias con las que trabajo:
+- Linux
+- GitHub
+- Javascript 
+- React
+- Redux
+- Node js
+- Express
+- MongoDB

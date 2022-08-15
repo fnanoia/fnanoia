@@ -6,4 +6,4 @@ En este momento estoy terminando mis estudios como Full Stack Developer en la in
 
 [LinkedIn](https://www.linkedin.com/in/fnanoia/) :space_invader:
 
-[CV](https://drive.google.com/file/d/1udsLxFUs-qEjsEutQeiXoGfWGbKmDL5j/view?usp=sharing) :alien:
+[CV](https://docs.google.com/document/d/1cWVOlICzVGqGjWxuOLlfGHn3cQHByLlOUBw6wOymx_E/edit?usp=sharing) :alien:

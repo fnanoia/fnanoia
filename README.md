@@ -7,5 +7,3 @@ Full Stack Developer en [Coderhouse](https://www.coderhouse.com/)
 GNU/LInux, Ciberseguridad y Redes en [Cisco](https://www.netacad.com/)
 
 [LinkedIn](https://www.linkedin.com/in/fnanoia/) :space_invader:
-
-[CV](https://docs.google.com/document/d/1cWVOlICzVGqGjWxuOLlfGHn3cQHByLlOUBw6wOymx_E/edit?usp=sharing) :alien:

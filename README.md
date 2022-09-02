@@ -1,9 +1,16 @@
-### Francisco Nanoia 
+## Francisco Nanoia 
 
-Participo del Cohorte 6 en [NoCountry](https://www.nocountry.tech/)
+### FullStack Developer Jr
+Autodidacta en constante crecimiento
 
-Full Stack Developer en [Coderhouse](https://www.coderhouse.com/)
+##### Cohorte 6 en [NoCountry](https://www.nocountry.tech/)
 
-GNU/LInux, Ciberseguridad y Redes en [Cisco](https://www.netacad.com/)
+##### Full Stack Developer en [Coderhouse](https://www.coderhouse.com/)
 
-[LinkedIn](https://www.linkedin.com/in/fnanoia/) :space_invader:
+##### GNU/LInux, Ciberseguridad y Redes en [Cisco](https://www.netacad.com/)
+
+<br>[![LinkedIn][linkedin-shield]][linkedin-url-fran]
+
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url-fran]: https://linkedin.com/in/fnanoia

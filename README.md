@@ -1,13 +1,10 @@
 ## Francisco Nanoia 
 
-### FullStack Developer Jr
-Autodidacta en constante crecimiento
+##### Cohorte 6(Backend Development) in [NoCountry](https://www.nocountry.tech/)
 
-##### Cohorte 6 en [NoCountry](https://www.nocountry.tech/)
+##### Full Stack Developer in [Coderhouse](https://www.coderhouse.com/)
 
-##### Full Stack Developer en [Coderhouse](https://www.coderhouse.com/)
-
-##### GNU/LInux, Ciberseguridad y Redes en [Cisco](https://www.netacad.com/)
+##### GNU/Linux, Networking and Cibersecurity in [Cisco](https://www.netacad.com/)
 
 <br>[![LinkedIn][linkedin-shield]][linkedin-url-fran]
 

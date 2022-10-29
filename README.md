@@ -8,7 +8,7 @@ maintenance of microservices for web
 applications. I'm working in freelance development
 projects, and looking for a job in IT.
 
-##### Cohorte 6 in [NoCountry](https://www.nocountry.tech/)
+##### Backend Developer in [NoCountry](https://www.nocountry.tech/)
 
 ##### Full Stack Developer in [Coderhouse](https://www.coderhouse.com/)
 

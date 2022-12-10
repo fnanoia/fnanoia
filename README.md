@@ -16,35 +16,40 @@ projects, and looking for a job in IT.
 
 <!-- SHOW stack -->
 ### Stack
-[![Javascript][javascript-shield]][javascript-url]
 [![Node][node-shield]][node-url]
+[![Javascript][javascript-shield]][javascript-url]
 [![Typescript][typescript-shield]][typescript-url]
 [![Express][express-shield]][express-url]
+![Linux][linux-shield]
 [![MongoDB][mongo-shield]][mongo-url]
 [![MySql][mysql-shield]][mysql-url]
 [![PostgreSQL][postgre-shield]][postgre-url]
 [![Sequelize][sequelize-shield]][sequelize-url]
 [![JWT][jwt-shield]][jwt-url]
+<br>
+![HTML5][html-shield]
+![CSS3][css-shield]
 [![React][react-shield]][react-url]
 [![TailwindCSS][tailwind-shield]][tailwind-url]
-<!-- ![HTML5][html-shield]][html-url][![CSS3][css-shield]][css-url][![CSS3][css-shield]][css-url]-->
+
 
 <!-- SHOW contact -->
 ### Contact me
 [![LinkedIn][linkedin-shield]][linkedin-url-fran]
 [![Gmail][gmail-shield]][gmail-url-fran]
-<!-- [![Slack][slack-shield]][slack-url-fran][![Discord][discord-shield]][discord-url-fran] -->
-
----
+![Slack][slack-shield]
+[![Discord][discord-shield]][discord-url-fran]
+![Trello][trello-shield]
 
 [![](https://visitcount.itsvg.in/api?id=fnanoia&label=Profile%20Views&color=9&icon=1&pretty=false)](https://visitcount.itsvg.in)
  
 <!-- SOCIAL LINKS -->
 [linkedin-url-fran]: https://linkedin.com/in/fnanoia
-[gmail-url-fran]: nanoiafrancisco@gmail.com
+[gmail-url-fran]: mailto:nanoiafrancisco@gmail.com
+[discord-url-fran]: https://discord.com/users/mr.cisc0#7108
 <!--
-[slack-url-fran]:
-[discord-url-fran]: https://discord.com/users/mr.cisc0#7108  -->
+[slack-url-fran]: 
+  -->
 
 <!-- BACK TECH LINKS -->
 [javascript-url]: https://www.javascript.com/
@@ -68,6 +73,7 @@ projects, and looking for a job in IT.
 [gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [slack-shield]: https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white
 [discord-shield]: https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
+[trello-shield]: https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white
 
 <!-- BACK shields -->
 [javascript-shield]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
@@ -88,4 +94,4 @@ projects, and looking for a job in IT.
 
 
 <!-- LINUX  shield-->
-[debian-shield]: https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white
+[linux-shield]: https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black

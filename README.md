@@ -34,6 +34,10 @@ projects, and looking for a job in IT.
 [![LinkedIn][linkedin-shield]][linkedin-url-fran]
 [![Gmail][gmail-shield]][gmail-url-fran]
 <!-- [![Slack][slack-shield]][slack-url-fran][![Discord][discord-shield]][discord-url-fran] -->
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=fnanoia&label=Profile%20Views&color=9&icon=1&pretty=false)](https://visitcount.itsvg.in)
  
 <!-- SOCIAL LINKS -->
 [linkedin-url-fran]: https://linkedin.com/in/fnanoia

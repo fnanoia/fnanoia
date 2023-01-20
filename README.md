@@ -1,12 +1,6 @@
 ## Francisco Nanoia 
 
-I'm a Backend Developer
-and student of Cybersecurity.
-Currently focusing my work in
-programation, testing and
-maintenance of microservices for web
-applications. I'm working in freelance development
-projects, and looking for a job in IT.
+I’m a Full Stack developer specialized in Backend services and a Cybersecurity student, enjoying building and designing exceptional applications. Currently, focused on working with clean, tested and scalable solutions. I'm working in freelance development projects, and looking for a job in IT.
 
 ##### Backend Developer in [NoCountry](https://www.nocountry.tech/)
 

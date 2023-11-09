@@ -1,16 +1,7 @@
 ## Francisco Nanoia 
 
-I’m a Full Stack developer specialized in Backend services and a
-Cybersecurity student, enjoying building and designing exceptional
-applications. Developing clean, tested and scalable solutions in freelance
-development projects., making use of OOP and design patterns.
-Currently working as an IT Support specialist, looking for new challenges.
+I'm an IT professional with a background in several fields: application development, database administration, network infrastructure, up to my current role as a systems analyst in a multinational company. I am also part of the programming teaching team at Coderhouse. My passion for technology goes beyond my current job; I am specializing in computer networks and cybersecurity.
 
-##### Backend Developer in [NoCountry](https://www.nocountry.tech/)
-
-##### Full Stack Developer in [Coderhouse](https://www.coderhouse.com/)
-
-##### GNU/Linux, Networking and Cibersecurity in [Cisco](https://www.netacad.com/)
 
 <!-- SHOW stack -->
 ### Stack
